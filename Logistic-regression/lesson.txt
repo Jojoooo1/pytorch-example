@@ -1,0 +1,10 @@
+Linear Regression: Predicting output
+~ y = ax = b
+
+Logistic Regression: Predicting probability => ~ p = [ 0, 1 ]
+
+1. Linear function
+2. Logistic function = sigmoide function => transform a linear regression into a probabilistic function
+3. SoftMax function => Define classes of probabilities
+4. Cross Entropy = Loss function (cost function)
+  => A Loss Functions tells us “how good” our model is at making predictions for a given set of parameters
